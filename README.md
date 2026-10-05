@@ -1,6 +1,6 @@
 # Hi, I'm Yibo 👋
 
-AI Researcher & Systems Engineer
+AI Researcher & Software Engineer
 
 - 🎓 MCS @ UIUC
 - 🔬 Interested in AI Agents, AI Infrastructure, and GPU Systems
