@@ -1,13 +1,8 @@
 # Hi, I'm Yibo 👋
 
+> Building intelligent systems that reason, simulate, and scale.
+
 AI Researcher & Software Engineer
 
 - 🎓 MCS @ UIUC
-- 🔬 Interested in AI Agents, AI Infrastructure, and GPU Systems
-- 🌷 Building things under `ColdTulips`
-
-## Currently
-
-- Exploring AI for future prediction
-- Building agent infrastructure
-- Learning GPU kernels and distributed systems
+- 🔬 Interested in AI Agents & AI Infrastructure
