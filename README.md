@@ -1,3 +1,4 @@
 # Hi, I'm Yibo 👋
 
-- 🎓 MCS @ UIUC
+- 🎓 Bachelor of Software Engineering @ TONGJI
+- 🎓 Master of Computer Science @ UIUC
